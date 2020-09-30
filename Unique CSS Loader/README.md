@@ -1,4 +1,4 @@
-#Unique CSS Loader
+# Unique CSS Loader
 
 ![](https://github.com/pranjals149/CSS-Arts/blob/master/Unique%20CSS%20Loader/Unique%20Loader.gif)
 
